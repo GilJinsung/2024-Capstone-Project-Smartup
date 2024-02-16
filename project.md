@@ -1,6 +1,8 @@
 # 스마트업 주제선정 보고서 
 
 ## 1. 선정한 주제
+![다운로드](https://github.com/GilJinsung/2024-Capstone-Project-Smartup/assets/155818661/9929646a-cced-4d6b-9f81-2b84a0f2898e)
+
 
 ## 2. 주제를 선정한 이유 및 해당 근거
  * 다루고자 하는 문제 정의 및 해당 문제가 풀만한 가치
